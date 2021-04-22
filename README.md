@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-## FA17-BCS-073
-
-![A](https://github.com/Noman2343/quizapp/blob/main/noman.png)
-=======
 ## Screenshoot
 
 <div class="row">
@@ -22,4 +17,4 @@
     <img src="5.png"  style="width:100%">
   </div>
 </div>
->>>>>>> Stashed changes
+
