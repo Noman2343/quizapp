@@ -31,4 +31,4 @@
   clear: both;
   display: table;
 }
-</style
+</style>
